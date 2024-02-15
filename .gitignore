@@ -1,0 +1,8 @@
+
+*.h5
+Ex12-BoostedTree/catboost_info/catboost_training.json
+Ex12-BoostedTree/catboost_info/learn/events.out.tfevents
+Ex12-BoostedTree/catboost_info/learn_error.tsv
+Ex12-BoostedTree/catboost_info/time_left.tsv
+Ex20-UNET/stage1_test/
+Ex20-UNET/stage1_train/
